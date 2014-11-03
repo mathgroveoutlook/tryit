@@ -1,3 +1,4 @@
 Changes were made through github.com
 - Local edit #1
 - Edit 2 from forked branch 
+- Edit 3 by sethusrinivasan on doc_branch
