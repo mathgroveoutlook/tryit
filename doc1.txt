@@ -1,2 +1,3 @@
 Changes were made through github.com
-- Local edit #1 
+- Local edit #1
+- Edit 2 from forked branch 
